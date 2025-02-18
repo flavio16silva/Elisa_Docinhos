@@ -1,3 +1,3 @@
-# Projeto de confeitaria
+# Projeto de confeitaria Elisa Docinhos
  - Projeto para prática de estudos; 
- - Ferramentas: HTML, CSS, Bootstrap e Javascript
+ - Ferramentas da 1º etapa: HTML, CSS, Bootstrap e Javascript.
